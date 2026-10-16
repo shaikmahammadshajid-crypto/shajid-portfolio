@@ -34,7 +34,7 @@
         item.setAttribute("aria-pressed", String(active));
       });
       cards.forEach((card) => {
-        const categories = (card.dataset.category || "").split(/\\s+/);
+        const categories = (card.dataset.category || "").trim().split(" ");
         card.hidden = filter !== "all" && !categories.includes(filter);
       });
     });
