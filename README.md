@@ -1,6 +1,6 @@
 # Shajid — Developer Portfolio
 
-A responsive, dark editorial-style portfolio for **Shaik Mahammad Shajid**, a B.Tech Computer Science Engineering (Data Science) student at Presidency University, Bengaluru.
+ **Shaik Mahammad Shajid**, a B.Tech Computer Science Engineering (Data Science) student at Presidency University, Bengaluru.
 
 ## Portfolio features
 
